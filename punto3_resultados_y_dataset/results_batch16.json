@@ -1,0 +1,13 @@
+{
+    "config": "batch_size=16",
+    "eval_loss": 0.6866915225982666,
+    "eval_accuracy": 0.8842424242424243,
+    "eval_f1_macro": 0.8817616556594765,
+    "eval_f1_weighted": 0.8843773614456808,
+    "eval_precision_macro": 0.8809294219113102,
+    "eval_recall_macro": 0.882709864926461,
+    "eval_runtime": 15.3396,
+    "eval_samples_per_second": 107.565,
+    "eval_steps_per_second": 6.78,
+    "epoch": 10.0
+}

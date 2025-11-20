@@ -1,0 +1,7 @@
+{
+    "config": "batch_size=8",
+    "test_accuracy": 0.8703030303030304,
+    "test_f1_macro": 0.8677329937069224,
+    "test_f1_weighted": 0.8705488598904841,
+    "test_loss": 0.8391779065132141
+}
